@@ -1,4 +1,4 @@
-package visitor;
+package com.example;
 
 import java.util.HashMap;
 import java.util.Map;
